@@ -1,0 +1,16 @@
+{
+    "name": "The_PIF's",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Programmable Interactive Files",
+        "/category/asset_value_tracking/core-token/symbol": "PIF",
+        "/category/asset_value_tracking/core-token/decimals": "0",
+        "/category/asset_value_tracking/core-token/supply": "10000000000",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "none"
+    }
+}
